@@ -1,0 +1,17 @@
+-- 1st Ans
+SELECT SUBSTR(CONVERT(datetime, UNSIGNED INTEGER), 9,2) HOUR
+,COUNT(SUBSTR(CONVERT(datetime, UNSIGNED INTEGER), 9,2)) count
+FROM animal_outs a
+GROUP BY HOUR
+HAVING HOUR >= 9 AND HOUR <= 19
+ORDER BY HOUR
+;
+
+-- 2nd Ans
+SELECT HOUR(datetime) HOUR
+,COUNT(HOUR(datetime)) count
+FROM animal_outs a
+GROUP BY 1
+HAVING HOUR >= 9 AND HOUR <= 19
+ORDER BY 1
+;
