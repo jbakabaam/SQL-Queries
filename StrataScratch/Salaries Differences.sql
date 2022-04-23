@@ -1,7 +1,6 @@
 Write a query that calculates the difference between the highest salaries found in the marketing and engineering departments.  
 Output just the absolute difference in salaries. 
 
-'''
 SELECT
 (
 SELECT MAX(salary)
@@ -19,4 +18,3 @@ ON e.department_id = d.id
 WHERE department = 'engineering'
 ) AS answer
 ;
-'''
