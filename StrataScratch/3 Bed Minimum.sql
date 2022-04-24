@@ -3,7 +3,6 @@ Find the average number of beds in each neighborhood that has at least 3 beds in
 Output results along with the neighborhood name and sort the results based on the number of average beds in descending order.
 '''
 
-`
 WITH a
 AS (
 SELECT neighbourhood, SUM(beds)
@@ -20,4 +19,3 @@ OR (a.neighbourhood IS NULL AND asd.neighbourhood IS NULL)
 GROUP BY 1
 ORDER BY 2 DESC
 ;
-`
