@@ -5,7 +5,7 @@ This repo contains various SQL Quries I solved
 
 🎯 HackerRank
 ---
-44 challenges solved
+44(76%) challenges solved
 
 🎯 StrataScratch
 ---
