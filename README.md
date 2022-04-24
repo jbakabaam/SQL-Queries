@@ -7,10 +7,11 @@ This repo contains various SQL Quries I solved
 
 🎯 HackerRank
 ---
-44(76%) challenges solved
+44 challenges solved
 
 🎯 StrataScratch
 ---
+22 coding problems solved
 
 🎯 Programmers
 ---
