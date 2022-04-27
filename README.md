@@ -7,6 +7,7 @@ This repo contains various SQL Quries I solved.
 
 Created by Jun Buhm Lee
 ---
+This repository contains solutions of various SQL problems.
 
 🎯 HackerRank
 ---
