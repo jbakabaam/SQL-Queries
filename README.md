@@ -9,6 +9,9 @@ This repo contains various SQL Quries I solved
 ---
 44 challenges solved
 
+![]('https://assets.leetcode.com/study_plan/sql/cover.png') LeetCode
+4 problems solved
+
 🎯 StrataScratch
 ---
 22 coding problems solved
