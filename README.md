@@ -10,6 +10,7 @@ This repo contains various SQL Quries I solved
 44 challenges solved
 
 🎯 LeetCode
+---
 4 problems solved
 
 🎯 StrataScratch
