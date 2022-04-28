@@ -52,7 +52,7 @@ The rest of the employees get a 100% bonus.
 
 SELECT employee_id,
     IF(
-        employee_id % 2=1
+        employee_id % 2 = 1
         AND name NOT LIKE 'M%', salary, 0
         )
         as bonus
