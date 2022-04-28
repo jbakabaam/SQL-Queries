@@ -17,7 +17,7 @@ This repository contains solutions of various SQL problems.
 
 🎯 LeetCode
 ---
-4 problems solved
+7 problems solved
 
 🎯 StrataScratch
 ---
