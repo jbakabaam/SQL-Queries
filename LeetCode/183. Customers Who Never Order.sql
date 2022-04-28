@@ -78,5 +78,5 @@ SELECT name AS Customers
 FROM Customers c
 LEFT JOIN Orders o
 c.id = o.customerId
-WHERE o.customer IS NULL
+WHERE o.customerID IS NULL
 ;
