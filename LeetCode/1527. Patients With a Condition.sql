@@ -52,4 +52,4 @@ WHERE conditions LIKE '% DIAB1%'
     conditions LIKE 'DIAB1%'
 ;
 
-`LIKE '%DIAB1%' 사용은 일단 주어진 테이블에서는 유효하나 정답처리는 되지 않는다.
+-- LIKE '%DIAB1%' 사용은 일단 주어진 테이블에서는 유효하나 정답처리는 되지 않는다.
