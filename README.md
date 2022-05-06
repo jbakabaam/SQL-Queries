@@ -20,7 +20,7 @@ This repository contains solutions of various SQL problems.
 
 🎯 StrataScratch
 ---
-22 coding problems solved
+29 coding problems solved
 
 🏆 Programmers
 ---
