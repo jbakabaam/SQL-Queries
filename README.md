@@ -12,7 +12,7 @@ This repository contains solutions of various SQL problems.
 🎯 HackerRank
 ---
 ![hri](https://user-images.githubusercontent.com/103108988/165555425-ed8e8d81-38b5-45ff-8e71-53ed8935a494.jpeg)  
-44 challenges solved
+45 challenges solved
 
 🎯 LeetCode
 ---
