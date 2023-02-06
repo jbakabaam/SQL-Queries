@@ -22,4 +22,4 @@ This repository contains solutions of various SQL problems.
 
 🏆 Programmers
 ---
-55(All) challenges solved
+64(All) challenges solved
